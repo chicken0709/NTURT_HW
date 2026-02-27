@@ -1,0 +1,28 @@
+rosbag2_bagfile_information:
+  version: 7
+  storage_identifier: mcap
+  duration:
+    nanoseconds: 21501719983
+  starting_time:
+    nanoseconds_since_epoch: 1772121308362811527
+  message_count: 44
+  topics_with_message_count:
+    - topic_metadata:
+        name: /motor_revs
+        type: std_msgs/msg/Float32
+        serialization_format: cdr
+        offered_qos_profiles: "- history: 3\n  depth: 0\n  reliability: 1\n  durability: 2\n  deadline:\n    sec: 9223372036\n    nsec: 854775807\n  lifespan:\n    sec: 9223372036\n    nsec: 854775807\n  liveliness: 1\n  liveliness_lease_duration:\n    sec: 9223372036\n    nsec: 854775807\n  avoid_ros_namespace_conventions: false"
+        type_description_hash: RIHS01_7170d3d8f841f7be3172ce5f4f59f3a4d7f63b0447e8b33327601ad64d83d6e2
+      message_count: 44
+  compression_format: ""
+  compression_mode: ""
+  relative_file_paths:
+    - rosbag2_2026_02_26-23_54_56_0.mcap
+  files:
+    - path: rosbag2_2026_02_26-23_54_56_0.mcap
+      starting_time:
+        nanoseconds_since_epoch: 1772121308362811527
+      duration:
+        nanoseconds: 21501719983
+      message_count: 44
+  custom_data: ~
